@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+li {
+  list-style: none;
+}
+ul {
+  list-style: none;
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+}
+.section-item ul .bgc_green {
+  background-color: #87a589;
+}
+.section-item ul .bgc_pink {
+  background-color: #cc90a5;
+}
+.section-item ul .bgc_gray {
+  background-color: #a3a3a3;
+}
+.section-item ul .bgc_blue {
+  background-color: #80a2af;
+}
+.section-item ul .bgc_yellow {
+  background-color: #ccbb76;
+}
+.section-item ul .bgc_papple {
+  background-color: #9e7b97;
+}
+.section-item ul .bgc_lavender {
+  background-color: #9398bb;
+}
+.section-item ul .bgc_blown {
+  background-color: #b08475;
+}
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  letter-spacing: 0.03em;
+}
+.wapper {
+  position: relative;
+}

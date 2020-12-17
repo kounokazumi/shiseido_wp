@@ -1,0 +1,78 @@
+/* --- フッター --- */
+footer {
+  width: 100%;
+  /* height: 220px; */
+  background-color: #666;
+}
+.footer-warp {
+  height: 168px;
+  margin: 0 36px;
+}
+.footer-item {
+  display: flex;
+  height: 80px;
+  padding: 0 12px;
+  align-items: center;
+  border-bottom: 1px solid white;
+}
+.footer-item p {
+  width: 74px;
+  height: 15px;
+  margin-right: 30px;
+  color: white;
+  font-size: 14px;
+}
+.footer-item ul {
+  display: flex;
+  color: white;
+}
+.footer-item li {
+  margin: 0 20px 0 0;
+}
+.footer-item_lang {
+  display: flex;
+  height: 80px;
+  padding: 0 12px;
+  align-items: center;
+}
+.footer-item_lang p {
+  margin-right: 30px;
+  color: white;
+  font-size: 13px;
+}
+.footer-item_lang ul {
+  display: flex;
+  height: 27px;
+}
+.footer-language li {
+  height: 26px;
+  margin: 0 1px 1px 0;
+  background-color: #9b9b9b;
+}
+.footer-language li a {
+  padding: 7px 0 6px 0;
+  color: black;
+}
+.footer-bottom_link {
+  margin: 0 0 0 auto;
+}
+.footer-bottom_link a {
+  margin-left: 30px;
+  color: white;
+  font-size: 13px;
+}
+.footer-foot {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  padding: 15px 48px;
+}
+.footer-foot .footer-logo {
+  margin-right: 20px;
+  color: red;
+  font-size: 20px;
+}
+.footer-foot .footer-group_link {
+  font-size: 10px;
+}
+/* --- フッダー end --- */
